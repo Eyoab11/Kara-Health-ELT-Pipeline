@@ -1,0 +1,25 @@
+# Core Data and API
+fastapi
+uvicorn[standard]
+sqlalchemy
+psycopg2-binary
+pandas
+
+# Telegram Scraping
+telethon
+
+# Data Transformation
+dbt-postgres
+
+# Data Enrichment
+ultralytics
+torch
+torchvision
+
+# Orchestration
+dagster
+dagster-webserver
+dagster-postgres
+
+# Environment Management
+python-dotenv

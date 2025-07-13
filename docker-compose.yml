@@ -1,0 +1,55 @@
+version: '3.8'
+
+services:
+  postgres:
+    image: postgres:13
+    container_name: postgres_db
+    env_file:
+      - ./.env
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+      POSTGRES_DB: ${POSTGRES_DB}
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER} -d ${POSTGRES_DB}"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+  app:
+    build: .
+    container_name: fastapi_app
+    env_file:
+      - ./.env
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: uvicorn src.api.main:app --host 0.0.0.0 --port 8000 --reload
+
+  dagster:
+    build: .
+    container_name: dagster_ui
+    env_file:
+      - ./.env
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./src:/app/src
+      - ./data:/app/data
+      - ./dbt_project:/app/dbt_project
+    depends_on:
+      postgres:
+        condition: service_healthy
+    command: dagster dev -h 0.0.0.0 -p 3000 -f src/orchestration/definitions.py
+
+volumes:
+  postgres_data:
