@@ -20,8 +20,7 @@ This project is an end-to-end data pipeline for Telegram, leveraging dbt for tra
 1.  **Initialize Git:**
     ```bash
     git init
-    git add .
-    git commit -m "Initial project structure setup"
+
     ```
 
 2.  **Environment Variables:**
