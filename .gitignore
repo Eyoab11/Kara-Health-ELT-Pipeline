@@ -68,3 +68,6 @@ docker-compose.yml.override
 /dbt_project/target/
 *.db
 *.sqlite3
+
+scraper/Scrapping.session
+*.session
