@@ -1,0 +1,201 @@
+{
+    "_": "Message",
+    "id": 172705,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-15 08:29:28+00:00",
+    "message": "Tikvah Sales\n(Pharma Import)\n\n🆕Update\n\n#●HCG \n#●HCG strip \n#●HP AB\n\n#▨Latex Examination glove \nPowder free\n\n#▯Miconazole cr.\n#▯Amilodipin 5mg\n#▯Sildanafil 50mg\n#▯Corazic syr.\n#▯Salbutamol 4mg\n#▯Ondansetron 8mg\n#▯Eascof DM 100ml\n#▯Eascof LS 100ml \n#▯Aceclofenac 100mg\n#▯Azitro 200mg 5ml,15ml\n#▯Acyclovir cr\n#▯B.Penicillin\n#▯Clavamayn 625mg 2x10\n#▯Cefixime 400mg,10tab\n#▯Corzinc syrup 100ml\n#▯Chlorphenamine 4mg\n#▯Co-trimoxazole\n#▯Diphenhydramine syr.\n#▯Eleron 15ml\n#▯PPF 4MIU\n#▯HCT 25mg\n#▯I-UP 200ml\n#▯Multivitamin tab\n#▯Albendazol 1x10\n#▯Phenobarbital 30mg\n#▯Sildenafil  tablet 1x4\n#▯Propranolol 10mg \n#▯Pregabelin cap 75 mg\n#▯Salbutamol tab 4mg\n#▯Vitacor (M. syr. 30ml)\n\n#Vicryl 2 Round\n#Vicryl 2/0 Round\n#Vicryl 2/0 cutting\n#Vicryl 3/0 cutting\n\n#▩Paracetamol, 60ml\n#▩Clotrimazole Cr, 15gm\n#▩Azithro 500mg 1*3 tab\n#▩Azitro 200mg/5ml, 30ml\n\n#◎Cloxacillin, 10x10\n#◎Ciprofloxacin, 10x10\n\n#▪Ciprofloxacin eye/ear\n\n#●Amoxacillin 125mg/5ml\n#●Cloxacillin 125mg/5ml)\n#●Doxycyllin 100mg\n#●Ciprofloxacillin IV\n#●Metri 250mg 10*100 \n#●Paingo of 2*10\n#●Duluit-HX, 20L\n#●Lyse-HX3, 500ml*2\n#●EZ-Cleaner, 1L\n\n#◈D_Alcohol 70%,1L\n#◈D_Alcohol 96%,1L\n#◈H_Sanitizer 80%,1L                     \n#◈Ketaconazol 2%\n#◈Diclofenac Supo\n#◈Mebo 30 gm\n#◈Folicum mg 10*10 \n#◈Clofen 50 mg 10*10\n#◈Exedexe syrup\n#◈Lovrak ( Acyclovir) syr\n#◈Negazole syrup\n#◈Amydramin \n#◈Paracetamol 250mg supp\n\n#□Potassium 600mg \n#□Fefol 200 + 0.4 mg\n#□Folic Acid Tablets 5mg\n#□Atorvastatin 20mg\n#□Fluconazole 200mg,\n#□Guaifenesin syr.\n#□Salbutamol syr. \n#□Metoclopramide syr.\n\n#◌Lyse-HX3, 500ml*2\n#◌Lyse-BC, 500ml\n\n+251917176560\n\n💬DM at @tespha\n                 @tikvah_sales",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-15 04:57:03+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1886962457
+        },
+        "from_name": null,
+        "channel_post": 234,
+        "post_author": null,
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25304,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 30,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityCustomEmoji",
+            "offset": 30,
+            "length": 2,
+            "document_id": 5309804743047018973
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 32,
+            "length": 641
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 673,
+            "length": 7
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 680,
+            "length": 9
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 689,
+            "length": 7
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 696,
+            "length": 11
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 707,
+            "length": 7
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 714,
+            "length": 13
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 727,
+            "length": 7
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 734,
+            "length": 832
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 1568,
+            "length": 13
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 1581,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 1583,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityCustomEmoji",
+            "offset": 1583,
+            "length": 2,
+            "document_id": 5303138782004924588
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 1585,
+            "length": 6
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 1591,
+            "length": 7
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 1598,
+            "length": 18
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 1616,
+            "length": 13
+        }
+    ],
+    "views": 1013,
+    "forwards": 1,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": "2025-07-15 08:29:33+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 2,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

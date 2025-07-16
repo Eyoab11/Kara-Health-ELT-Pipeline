@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 18597,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-16 06:11:04+00:00",
+    "message": "MUSINEX COUGH EXPECTORANT 68 TABLETS \nPrice 4500 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-25 16:02:23+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15821,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5836973865547449844,
+            "access_hash": -4985933842655469973,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\xa5hw\\xcdE\\x9cG\\xfd\\x9e*\\xd68\\xb9!z\\x87\\x9fr\\xcb\\x86 '",
+            "date": "2024-10-29 12:56:07+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01(\\x1b\\xbeD\\xec\\xecU\\xd7\\x1d\\xb2)Ug\\x03\\xe6d?\\xf0\\x1a\\xadr\\xfbgo\\x91\\xf1\\xc7 \\xe0\\x1csM\\xf3\\xf3\\x9c\\xc89\\xff\\x00j\\x9f \\xb9\\x92.\\xedn\\xac\\x01\\xfa\\nP\\xcd\\x8a\\xa0g9!K0\\xff\\x00e\\xf9\\x1fJ\\xbd\\x13\\x16\\x89IR\\t\\x1d(\\xe5\\xb0)\\\\\\x95{\\xfdj\\xb4\\xb2\\x03.\\x12\"\\xc0\\x1c3n\\xc0\\x15[\\xedS\\td\\x01\\xb2\\x03\\x10\\x06)\\xc9 e\\xf9\\xc6\\xd6\\xc9=:\\xe6\\xab\\x96\\xc4{D\\xf44\\x14\\x00\\xb8^\\x94\\xd3\\xd6\\xa8\\xbd\\xdc\\xb9!8_\\\\Tku1\\x19\\xf3?J9\\x18{TC*H\\x93\\xc8\\xc5X\\x02\\xc7\\xb7\\xbd\\'\\xef\\x08\\xca\\xa3\\xb7\\xd3\\xff\\x00\\xd5E\\x14\\xd3\\xd09U\\xc4\\xde\\xe4\\xed\\xd8\\xe4\\xfa\\x7f\\x91OH\\xa5\\xda?s\\'\\xfd\\xf2h\\xa2\\x86\\xc4\\xa2\\x8f'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 213,
+                    "h": 320,
+                    "size": 25535
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 341,
+                    "h": 513,
+                    "sizes": [
+                        4049,
+                        11803,
+                        23932,
+                        34303,
+                        47173
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 64,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 141,
+            "length": 10
+        }
+    ],
+    "views": 400,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

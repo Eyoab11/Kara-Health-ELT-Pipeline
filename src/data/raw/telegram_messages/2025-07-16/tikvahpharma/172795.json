@@ -1,0 +1,271 @@
+{
+    "_": "Message",
+    "id": 172795,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 08:11:58+00:00",
+    "message": "CPD         +251974059645  \nበጣም #ከታላቅ ቅናሽ ጋር  #የሞያ_ፈቃድ_ለማሳደስ_CPD አሁን  ይመዝገቡ   \n\n  አስደሳች ዜና #የሙያ ፍቃዳችሁን ላላሳደሳችሁ የጤና  ባለሙያዎች በሙሉ ✅\n\nCPD Online ይሰልጥኑ አሁን ይደውሉ ይመዝግቡ   ወይንም  በቴሌግራም ይመዝገቡ \n                 Telegram :- @infocpd\n                  Call :- +251974059645\n                      \n*** ማሳሰቢያ  ተመሳሳይ ስለሚኖር  የ እኛ  በጣም ቅናሹ ኪሰዎን የሚያጎድ የ እኛ ነው !! \n         (Benefit  packages)\n15 CEU=400 BIRR\n30 CEU=800  BIRR\n45 CEU=1000 BIRR\n60 CEU=1200 BIRR \n            \nOnline CPD TRAINING (All Health Department )\n\nባሉበት ቦታ ሆነው ስልጠናውን ይውሰዱ ፡ ሰርትፌኬትዎን ባሉበት ቦታ ይቀበሉ\n              \n               ከ ሌሎች ልዩነታችን\n👌 1ኛ  ልዩ የሚያደርገን እውቅና ያለን\n\n    በጤና ሚንስቴር ብቸኛ እና እውቅና ያለው  የ CPD ስልጠናዎች የሚቀርቡበበት  ዌብሳይት እንደሆን ያውቃሉ። \n\n        All department (ሁሉም ድፓርትመንት)\n1. GP    \n2. HO   \n3. Ansthetsia  \n4. Nurse \n5. Midwifry   \n6.Pharmacy \n7. Labratory \n8, others health professional \n\n      Registration - Ongoing\nስልጠናውን በተመቾት ጊዜ ይውሰዱ፤ የልዩ ቅናሽ ተጠቃሚ ይሁኑ።\n\n👌 2ኛ ልዩ የሚደርገን በታማኝነት ድጋፍ ምክር መስጠት\n  ሁሌም ምዝገባ ሁሌም ስልጠና አለ\nለስልጠና ብለዉ ጊዜ ገንዘብዎን  አያባክኑ።ባሉበት  ሆነው የሚፈልጉትን  CEU ነጥቦች እንዲያሟሉ እናግዛለን \n\n    ለበለጠ መረጃ እና ቲክኒካል ድጋፍ \n\n            ባሉበት ሆነው  አሁን ይደውሉ\n*** 👉 ትክክለኛው ስልክ ቁጥር ይሄ ብቻ ነው!!\n📱 +251974059645\n\nእና በ ቴሌግራም  ያናግሩን \n  👉 @Infocpd\n\nቲሌግራም ግሩፕ ለመቀላቀል\n👉https://t.me/infocpdonlinetraining",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-16 08:11:54+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25332,
+        "post_author": "jo jo",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25332,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 12
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 12,
+            "length": 13
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 25,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 32,
+            "length": 5
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 38,
+            "length": 3
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 46,
+            "length": 18
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 80,
+            "length": 11
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 91,
+            "length": 4
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 95,
+            "length": 33
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 130,
+            "length": 52
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 201,
+            "length": 12
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 213,
+            "length": 8
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 221,
+            "length": 27
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 248,
+            "length": 13
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 262,
+            "length": 4
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 285,
+            "length": 157
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 285,
+            "length": 9
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 356,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 443,
+            "length": 121
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 580,
+            "length": 12
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 580,
+            "length": 12
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 593,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 596,
+            "length": 23
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 596,
+            "length": 23
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 621,
+            "length": 74
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 703,
+            "length": 217
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 703,
+            "length": 28
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 856,
+            "length": 22
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 924,
+            "length": 125
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 924,
+            "length": 31
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 1050,
+            "length": 95
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 1054,
+            "length": 21
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 1090,
+            "length": 18
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 1145,
+            "length": 13
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 1158,
+            "length": 26
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 1184,
+            "length": 8
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 1192,
+            "length": 21
+        },
+        {
+            "_": "MessageEntityUrl",
+            "offset": 1213,
+            "length": 34
+        }
+    ],
+    "views": 450,
+    "forwards": 0,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

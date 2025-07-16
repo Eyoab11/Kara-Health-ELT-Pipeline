@@ -1,0 +1,149 @@
+{
+    "_": "Message",
+    "id": 18580,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-15 15:00:01+00:00",
+    "message": "ORGANIC EXTRA OLIVE OIL 2L\nPrice 6500 birr \nTelegram :-@Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr -500 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-02 05:15:45+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 18333,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5992158786367900449,
+            "access_hash": 7385840504881692635,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x94hw\\xcdE\\xfe\\x12\\xf3M\\x11\\xc1l\\x10\"\\x10\\xa2j{\\xd0\\x06\\xa3'",
+            "date": "2025-07-02 05:15:44+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01(\\x17\\xb7\\x0e\\xf7F\\x0eA`k8\\xcb!\\x9aA\\xb8\\xe3<`\\xd3\\xefg\\x9a(\\x82\\x13\\x8d\\xfdx\\xaaK 8\\xf9\\x88?JLf\\x8a\\x92Xdf\\x8a m\\xc8\\x1b9\\xa2\\x90\\x0c\\xbeFs\\x10|\\xe4\\x93\\x8c\\xd5u\\xb5]\\xa5\\xc1\\xe9V\\xf5\\x0c\\xab\\xc2F7d\\xd5d\\xf37\\x1f\\x93\\x83\\xc140E\\x9bo\\xf5c\\xeah\\xab\\x10\"\\xf9\\t\\x91\\xda\\x8a,\\x17(\\xeaL\\xcf\\xb0\\xaep*\\x94,\\xe6A\\xd7\\xad\\x14S\\x127\\xa0\\x18\\x85\\x14\\xf6\\x14QE0?'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 186,
+                    "h": 320,
+                    "size": 14425
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 464,
+                    "h": 800,
+                    "size": 60473
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 743,
+                    "h": 1280,
+                    "sizes": [
+                        10962,
+                        22215,
+                        30115,
+                        45629,
+                        81196
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 55
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 55,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 55,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 72,
+            "length": 47
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 119,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 119,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 129,
+            "length": 267
+        }
+    ],
+    "views": 312,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

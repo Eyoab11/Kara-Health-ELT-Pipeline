@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 18572,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-15 05:38:24+00:00",
+    "message": "ONE A DAY WOMEN 300 TABLETS\nPrice 5700\nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-03-13 14:45:59+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 16093,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5951544158277715923,
+            "access_hash": 4334093701692359245,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x8chw\\xcdE3<\\x9c\\xe1\\xb8\\x95@ 0\\xe2\\xd83\\xd4I\\xb3\\x95'",
+            "date": "2025-03-13 14:45:59+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd9\\xa6J\\xdbP\\x9c\\x80{f\\x9fT\\xaf\\x81,1\\xd8w\\xedI\\x8dn7u\\xces\\xbb\\x8f\\xa8\\xabq1d\\x04\\x90O|U(\\xd5\\x04C{\\x06\\'\\x9c\\x81\\xc0\\x155\\xa8\\x02O\\x90\\xf0W\\xb7z\\x95t\\xcb\\x95\\x9a-\\xd1E\\x15faUn\\\\,\\xbc\\xff\\x00v\\xadU+\\xccy\\xbc\\xff\\x00w\\xfa\\xd4\\xcbb\\xe1\\xf1\\r\\xf3\\xd0\\xf4@[\\x1d\\xe9\\xf6\\xc4\\x99\\xf2\\xddv\\x9f\\xe6*\\x9f\\x18\\xef\\x9cU\\xbb]\\xbe`\\xdb\\xfd\\xd3\\xfc\\xea\"\\xf54\\x92I2\\xed\\x14QZ\\x98\\x05V\\xb9\\x81\\xa4m\\xcb\\x8e\\x98\\xe6\\x8a)5q\\xa7g\\xa1[\\xec\\x93\\x0f\\xe1\\x1f\\x9dY\\xb6\\x81\\xa3m\\xcd\\x81\\xc60(\\xa2\\xa5E\"\\xe5Q\\xb5fY\\xa2\\x8a*\\xcc\\xcf'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 15545
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 554,
+                    "h": 554,
+                    "sizes": [
+                        2994,
+                        6687,
+                        10202,
+                        14381,
+                        23354
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 48,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 125,
+            "length": 10
+        }
+    ],
+    "views": 343,
+    "forwards": 1,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

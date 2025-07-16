@@ -1,0 +1,244 @@
+{
+    "_": "Message",
+    "id": 172810,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 10:54:41+00:00",
+    "message": "#Ultrasound_Training_\n@Arbaminch📌\n@Wolaita_Sodo📌\n#ከሐምሌ 20 ጀምሮ(#Accredited )\n---------------------------------------------\n\n✔አዘጋጅ-Ethio-American CPD center in collaboration with selected hospitals .\n💥Place of Training_Selected Hospitals \n\n💥Call & Register now\n   \n   📲0965412222 Dr.Shalom\n   📲0941404444 Daye\n   📲0942404444 Tenbit\n   📲0965410000  Ekram\n   📲0968670067  Selam\n\n#N.B_Only a few spots left #N.B_በኢትዮጵያ_OB_Ultrasound_ስልጠና_ፈቃድ_ያለው_ተቋማችን_ብቻ_ነው።(we are Accredited)\n¤🏃For more info .follow us on telegram :-\nt.me/eahci",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-14 08:44:20+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1432982009
+        },
+        "from_name": null,
+        "channel_post": 2832,
+        "post_author": null,
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25341,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6028250234074810887,
+            "access_hash": -248195699430048794,
+            "file_reference": "b'\\x02]\\x92VM\\x00\\x02\\xa3\\nhw\\xcd\\xf8\\n\\xe6\\x077\\xa3{\\xcb\\xa9?\\xef?w\\x8e=\\xd2\\xa9'",
+            "date": "2025-07-14 08:44:19+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01(\\x1c\\xbeX\\xe7\\xef\\x9e\\xbc\\x8d\\xe2\\x95K\\x13\\x95\\xdcq\\xdbx\\xe6\\x92C\\x12\\xb1\\xdf\\xb3=\\xf8\\xcf\\xf4\\xa7\\x81\\xb0\\x02\\xa1FG\\x18\\xff\\x00\\xf5S$\\xcd\\xd4\\xe4\\x90\\xddB\\x08\\xc6\\x07\\x0b\\x9e\\xf5H\\x15,\\xc5\\x89S\\xbb\\xa6:V\\xd5\\xcd\\xbcS\\x95vb\\x1dz\\x10;zU\\x7f\\xec\\xb5\\x90\\x97gbI\\xe7\\x9f\\xfe\\xb5+\\x17r\\x8c\\x91\\xb3\\xcb+H9~A$\\n\\xd6\\xb7\\x07\\xec\\xe0n\\xc0^\\x07_A\\xe9Y\\xac\\xe6wT\\x1c1\\xeaq\\xdf\\xd6\\xaf\\xd9\\xa7\\x94\\xa5\\x0b\\x96\\x07\\xf9\\xfbP\\x84\\xc9\\xf3\\xd3\\xe6\\xe7\\xfe\\x05V\\x07J\\x84\"\\x93\\xc63\\xf5\\xa9\\x85\\x02F$70\\x84\\x06S\\xbeL\\x7fs\\x91\\xedS[\\xdeE\\'\\xce\\xe4\\xa8_^\\xe6\\x8a*\\xa2\\xb5\\x14\\x9d\\x91r\\xdex\\xa48\\x8d\\xf2}\\t\\xab\\x1c\\xf7\\x14QD\\x95\\x98E\\xdc'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 226,
+                    "h": 320,
+                    "size": 31180
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 566,
+                    "h": 800,
+                    "size": 121314
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 905,
+                    "h": 1280,
+                    "sizes": [
+                        18714,
+                        53708,
+                        101408,
+                        138359,
+                        229282
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 0,
+            "length": 21
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 21
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 21,
+            "length": 1
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 22,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 22,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 34,
+            "length": 1
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 35,
+            "length": 13
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 35,
+            "length": 13
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 48,
+            "length": 3
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 51,
+            "length": 5
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 51,
+            "length": 5
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 56,
+            "length": 8
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 64,
+            "length": 11
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 64,
+            "length": 11
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 75,
+            "length": 309
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 384,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 384,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 386,
+            "length": 25
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 411,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 411,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 413,
+            "length": 112
+        },
+        {
+            "_": "MessageEntityUrl",
+            "offset": 525,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 525,
+            "length": 10
+        }
+    ],
+    "views": 6028,
+    "forwards": 6,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

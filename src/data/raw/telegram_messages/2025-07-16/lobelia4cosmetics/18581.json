@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 18581,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-15 15:00:01+00:00",
+    "message": "APTAMIL No.3\nPrice 4500 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-06-02 12:46:47+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 17784,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5904441651374443351,
+            "access_hash": -7330363004722903252,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x95hw\\xcdEg\\x17\\xdf\\x9f\\xce2\\xf2.\\xe3\\x88\\x8c\\xc9\\x85eA\\xd2'",
+            "date": "2025-06-02 12:46:47+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd9\\xac\\xff\\x00.y97.3\\xe8\\xb8\\x15\\xa1TV\\\\`\\x15\\xdc\\xa4\\x80\\x7f\\x1a\\xa8\\x92\\xc8\\xfe\\xcf/_\\xb6I\\xf9\\xd1\\xb6x\\xc8\"\\xe9\\x8f\\xd4f\\xac\\x96\\xdcP\\x98\\xdb$\\x8e2F*\\'|\\xc8\\x7fw\\xb7\\x8c\\xff\\x00Z\\x1d\\xde\\xc1\\xb1z\\x8a(\\xa9(+29\\x18r+N\\xb1\\xd5\\x1bg\\xdf\\x00\\x9c\\xe0c5QinKW/-\\xdeP\\xe5~a\\xdf\\xb5V\\x96r\\xc7\\xadH\\xa5\\x12\\xd7i\\xc08%\\xb3\\xebUd+\\xf45J\\xc4\\xbb\\x9b4QEfh\\x15\\x93\\x1f\\x9e\\x8c\\x03\\xc5!\\x00\\xf6\\\\\\xd1E10ui$fkyy\\xe9\\xc1\\xe2\\x9a\\xd1H\\xfcy\\x12g\\xd4\\x8a(\\xa7q#b\\x8a(\\xa9('"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 19433
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 350,
+                    "h": 350,
+                    "sizes": [
+                        1889,
+                        4438,
+                        6775,
+                        9290,
+                        14970
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityMention",
+            "offset": 39,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 103,
+            "length": 10
+        }
+    ],
+    "views": 316,
+    "forwards": 2,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

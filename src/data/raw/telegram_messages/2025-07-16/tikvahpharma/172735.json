@@ -1,0 +1,86 @@
+{
+    "_": "Message",
+    "id": 172735,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-15 17:01:59+00:00",
+    "message": "   \nPHARMAKON TRADING HOUSE PLC (IMPORTER)\n\n♟Laboratory Instruments & kits\n\n🧊Shaker(DLAB)\n🧊Centrifuge 12 hole digital(DLAB)\n🧊Roller mixer.(DLAB)\n🧊micropipette (DLAB)\n      5-50uL\n      10-100uL\n     100-1000uL\n🧊Digital timer..\n🧊Test tube rak ....\n🧊Staining rack ......\n     * DLABS\n🧊PCR tube rack...\n🧊Malaria test kit casset pv/pf of 25....\n🧊Urine strips  of 100\n🧊HCG of 50.....\n      ♟Dust material \n💠sharp  container 5L PLASTIC\n💠Dest Bin 15L PLASTIC.\n \n@pharmainfocenter\n\"PHARMAKON-THE  ONE YOU TRUST\"\n📶🤳\n0915407070    ÃNWAR\n0921058468.    NEJIB\n0944703333    Alemseged \n0915608080    yemesrach \n0915607070   AHMED",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-15 17:01:56+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25313,
+        "post_author": "NEJIB Pharmakon",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25313,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityMention",
+            "offset": 468,
+            "length": 17
+        }
+    ],
+    "views": 662,
+    "forwards": 0,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

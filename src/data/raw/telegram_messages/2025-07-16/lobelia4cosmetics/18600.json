@@ -1,0 +1,147 @@
+{
+    "_": "Message",
+    "id": 18600,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-16 06:11:04+00:00",
+    "message": "BIOTIN 10000 mcg\nPrice 5000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-05-27 16:33:06+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 17683,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5886733346594211463,
+            "access_hash": 6073744503627798339,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\xa8hw\\xcdE\\x98\\x93\\xb9]\\x1e\\xb7\\xcd\\xb0b\\xad`[a\\x19\\xf4\\xc6'",
+            "date": "2025-05-27 16:33:06+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01(\\x1e\\xce\\x18\\x03\\xeeg\\xebV~A\\x19!\\x13\\xfe\\xf9\\x15\\x1a@\\xc5\\x86S\\xf3\\x15a\\xa0\\xfd\\xd9\\xc4\\x80d}\\xdc\\n\\xaa\\x96D\\xc8\\xac\\xcc\\xae\\x8cJ\\xa0=\\xb0\\xa2\\xa2!=\\x1b\\xf0\\x15j8\\xb0\\x19\\x1b\\xbfJ\\x87\\xca\\'\\xfb\\xe7\\xf0\\xa7\\x0b45\\xb1v\\x18\\x97\\xce_\\x91\\xc0\\xcf\\xf1\\x1a\\xbec\\xb6\\xe5NT\\x8fs\\xda\\xa8\\xc0\\x87\\xcdC\\xe50\\xe7\\xab\\x1a\\xd2\\x95\\x10\\xb7,\\x14\\xe3\\xfb\\xa0\\xd4\\xbdG\\xb9M\\xd6\\x1c\\x12\\xa4\\xf4\\xeas\\xe9U6E\\xe9;}\\x05_\\x90 F*A\\xe3\\xd3\\x15A\\xb0z\\t\\x9b\\xe9B\\x01\\xa2\\xe1s\\x90\\x8d\\x9fV5`j\\x8c#\\x00\\x9f\\x9a\\x8a*\\xe7Mn\"\\'\\xd4\\x0b\\xb0\\xcbq\\xeci\\x86\\xe5O\\xf1\\xce~\\x86\\x8a)B({\\x9f'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 240,
+                    "h": 320,
+                    "size": 33882
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 450,
+                    "h": 600,
+                    "sizes": [
+                        4580,
+                        14271,
+                        29477,
+                        43355,
+                        70714
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 43
+        },
+        {
+            "_": "MessageEntityUrl",
+            "offset": 43,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 43,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 73,
+            "length": 47
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 120,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 120,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 130,
+            "length": 77
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 220,
+            "length": 178
+        }
+    ],
+    "views": 573,
+    "forwards": 1,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

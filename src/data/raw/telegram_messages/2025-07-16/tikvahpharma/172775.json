@@ -1,0 +1,116 @@
+{
+    "_": "Message",
+    "id": 172775,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 05:46:21+00:00",
+    "message": "Urgent vacancy \n\n#Position: Sales person\n\n#Profession: Pharmacists/Druggist\n\n#Experience in Pharma sales\n\n#Company: Pharmaceutical Wholesale\n\n#Location: Semit Pepsi_AA\n \n#Apply: 0990262188\n\n\nCall only if you have experience in sales.",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-16 05:46:18+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25324,
+        "post_author": "yam",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25324,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 14
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 17,
+            "length": 9
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 42,
+            "length": 11
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 77,
+            "length": 11
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 106,
+            "length": 8
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 142,
+            "length": 9
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 170,
+            "length": 6
+        }
+    ],
+    "views": 399,
+    "forwards": 0,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

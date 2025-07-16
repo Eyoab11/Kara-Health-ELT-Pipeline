@@ -1,0 +1,129 @@
+{
+    "_": "Message",
+    "id": 172730,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-15 15:01:39+00:00",
+    "message": "Medisafe manufacturing plc",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-15 15:01:36+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25311,
+        "post_author": "Alifa kemal Hala",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25311,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6030341393521690381,
+            "access_hash": 6596140897851790274,
+            "file_reference": "b'\\x02]\\x92VM\\x00\\x02\\xa2\\xbahw\\xcd\\xf8\\x14\\x84\\x8a\\x99\\xc7ed\\xe0ujf\\xa4\\xd5,\\xe8\"'",
+            "date": "2025-07-15 15:01:36+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b\"\\x01((\\xd8gU\\xea@\\xcd7\\xcdA\\xfcB\\x9cqYW7\\xaee\\xfd\\xc3|\\x9d\\xb2\\x00\\xfet\\x9b\\x1aW'\\x90\\\\I2\\xb0\\x9d\\x15Ge'\\x9a\\xb7\\xe6\\x82\\xbdW5\\x9a.\\xe5\\xc1\\xf9\\x87\\xd7\\x8a\\x96\\t\\xa4h\\x0b\\xb4\\x8a\\xc4\\xe7\\x1f-\\x0bQ\\xc9X\\xbe\\x8c\\x18u\\x04\\x8e\\xb8\\xa2\\xa9\\xe9\\xb3K:\\xc8\\xd2\\xfa\\xf1\\xd2\\x8al\\x91\\x9a\\x94\\xce\\xac#C\\x80G#\\x1dj\\x82!'q_\\xa9\\xf4\\xad+\\xf5\\x1b\\xd5\\x9b\\xa1\\x18\\xaa\\xa5\\x01\\x18^\\xb5,\\xd2-\\x10c \\x80\\t\\xed\\x8a\\xb5*G\\x1d\\x99\\xdd\\x168\\xe7\\xb9\\xcdG \\x9e=\\x98Q\\xcf\\xcd\\xc69\\xa4\\x9ei\\xe5\\x8c\\xa7\\x92W=rkH\\xad\\x08\\x9b\\xbb-\\xe9\\x1b~\\xcapO\\xde\\xe74T\\x9aj\\xb2\\xda\\x8d\\xc3\\x04\\x93E)n$YtW]\\xac2*\\x1f\\xb1\\xc3\\x9e\\x87\\xe9\\x9a(\\xa4\\x17h.Q\\xc8_,p\\x01\\xe9Uv\\xccN\\x04o\\xff\\x00|\\xd1E;\\x8b\\xa9v\\xddY!Ua\\x82(\\xa2\\x8a@\\x7f\""
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 27067
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 800,
+                    "h": 800,
+                    "size": 95687
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "y",
+                    "w": 1280,
+                    "h": 1280,
+                    "size": 150586
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityMentionName",
+            "offset": 0,
+            "length": 8,
+            "user_id": 7706624740
+        }
+    ],
+    "views": 706,
+    "forwards": 0,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

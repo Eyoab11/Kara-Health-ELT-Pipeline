@@ -1,0 +1,139 @@
+{
+    "_": "Message",
+    "id": 172797,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 09:33:51+00:00",
+    "message": "Are You ? \n\n📦 Importer \n\n🗓 Make Your Supply Chain Smarter not harder\n \n\n💊  Inventory Tracking\n✅  Easily Purchase finder\n✅ Easily Invoice finder\n💊 Get Notification in every activity\n\nTry to register today 👇👇\n\nhttps://tenadam-inventory.falconsystech.com\n\nCall  0969015134  or\nInbox   @Techsup010",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-15 23:53:13+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 2028848026
+        },
+        "from_name": null,
+        "channel_post": 28,
+        "post_author": null,
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25334,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6032598862692205933,
+            "access_hash": -3594530654251362463,
+            "file_reference": "b'\\x02]\\x92VM\\x00\\x02\\xa2\\xfdhw\\xcd\\xf8\\xf6\\xbdo\\x86w\\xe1\\xd9M\"H\\x88a\\xe7&\\xcb\\xc2'",
+            "date": "2025-07-15 22:03:44+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b\"\\x01((\\xd6$\\x0f_\\xca\\x90\\x92G\\xcbQ\\xcb\\x11v\\xc8i\\x07\\x1f\\xc2\\xd8\\xa6\\xf9'9\\xdd/\\\\\\xe3}\\x02\\x12\\xedsf\\xe1\\xdb\\x03\\x8eO\\xd6\\xb2\\xfc\\xb8\\xbf\\xe7\\xba~M\\xfe\\x15\\xa3t\\x85,\\xa4\\x19c\\xd3\\xef\\x1c\\xf7\\x15B\\x18\\xd0\\x80\\xcc\\xbb\\x86pFh\\xb9.-\\xb2[$Av\\x84L\\xacy\\xe0\\x03\\xe9\\xf4\\xa2\\x9f\\x0cH\\x97\\xf1\\x98\\xfe\\xef<~\\x06\\x8abZ\\x17\\xe4\\xc09%\\x87\\xd2\\x9a\\xbbY\\xbe\\xf4\\x9f\\x8f\\x14\\xf684\\x81\\xb9\\xea1\\xfe}\\xe9\\x1a\\t<^l\\r\\x1f\\xa8\\xach\\xd6h\\xae\\xb62a\\xc6q\\x9e\\x95\\xbb\\x9c\\xf4 \\xd2:\\x82\\x87*\\x0f\\x1d\\x08\\xcd\\x00f\\xc10{\\xd8\\xd4\\x0crI\\x1e\\x9c\\x1a*\\xd4v\\xb0\\xa4\\xcb$i\\xb5\\x81\\xecz\\xf1E;\\x93fY;\\xbbc\\xf1\\xa4]\\xdf\\xc5\\x8f\\xc2\\x8a)\\x14:\\x90\\xe7\\xb5\\x14P\\x00\\x01\\xcfo\\xca\\x8a(\\xa0\\x0f\""
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 25252
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 800,
+                    "h": 800,
+                    "size": 92028
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 1080,
+                    "h": 1080,
+                    "sizes": [
+                        11263,
+                        33015,
+                        64869,
+                        85350,
+                        120190
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 214,
+            "length": 43
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 288,
+            "length": 11
+        }
+    ],
+    "views": 982,
+    "forwards": 3,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

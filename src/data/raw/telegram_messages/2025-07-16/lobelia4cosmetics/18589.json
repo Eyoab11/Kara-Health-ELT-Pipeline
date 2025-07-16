@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 18589,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-16 06:11:04+00:00",
+    "message": "ARGON OIL \nPrice 5000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-04-08 15:24:21+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 16619,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6030327589496800313,
+            "access_hash": 8234685654345526446,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x9dhw\\xcdE\\x18WtE\\\\\\xea\\xdf\\xc5\\xbc\\xc1\\x14Q\\xaew\\xf8\\x1f'",
+            "date": "2025-04-08 15:24:21+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b\"\\x01((\\xd9\\xa2\\x8a\\xa1{s*O\\x1c\\x10\\x90\\xac\\xff\\x00\\xc5@\\x10\\x1dB\\x7f\\xb7\\xf9\\x18]\\xbef\\xde\\x9d\\xb3Z\\xd5\\x99\\xf6\\x19q\\xfc;\\xb3\\x9d\\xdb\\xces\\xeb\\x9cT\\xd6\\xb3\\xcb\\xf6\\xa7\\xb6\\x98\\x86e]\\xdb\\xbf\\xcf\\xd6\\x81\\xd8\\xbbE\\x14P \\xac\\xcb\\xef\\xf9\\n[~\\x1f\\xce\\xb4\\xeb+Pm\\xba\\x9d\\xb9=\\x00\\x07\\xf5\\xa0\\x11\\xa2pd\\xc7z\\xa5\\x0f\\xfc\\x87'\\xff\\x00\\xaec\\xfaU\\x8f\\xb4\\xa0%\\xbeb*\\xad\\xab\\x87\\xd6ga\\xd0\\xc6?\\xa5Ji\\x8e\\xce\\xc6\\x9d\\x14QT \\xaa\\x17\\xd6rMq\\x1c\\xd1\\x15%F\\x08j(\\xa1\\x82\\x1b\\xe4\\xde\\x1e\\xb1\\xc3N\\xb3\\xb4\\x92+\\xa7\\x9e]\\xa0\\xb2\\xed\\n\\xbf\\xe7\\xda\\x8a)Y\\x14\\xe4\\xd9~\\x8a(\\xa6I\""
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 11616
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 554,
+                    "h": 554,
+                    "sizes": [
+                        2730,
+                        5615,
+                        8175,
+                        11249,
+                        17233
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 37,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 114,
+            "length": 10
+        }
+    ],
+    "views": 202,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

@@ -1,0 +1,124 @@
+{
+    "_": "Message",
+    "id": 18571,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-15 05:38:24+00:00",
+    "message": "COLLAGEN 390 TABLETS \nPrice 7500\nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-26 04:50:10+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15838,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5886400709967075643,
+            "access_hash": 1304834792050163598,
+            "file_reference": "b\"\\x02cT\\xa8\\xf8\\x00\\x00H\\x8bhw\\xcdE\\x9e\\xd9\\xb0\\xbd\\x80]\\x81_\\n\\xa1#\\x96C'b-\"",
+            "date": "2024-11-14 13:30:19+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd9\\xaa\\xd7\\xb3\\x98\"\\x0c\\xa5A\\xcf\\xf1U\\x9a\\xa5uf\\xb3\\xca\\x1d\\x89\\xe9\\x8e\\xf4\\r\\x14N\\xad1\\x19\\xf9\\x07\\xe1ZvS\\x99\\xe1\\xdc\\xcc\\xa4\\xe7\\xb5T\\xfe\\xccO_\\xe7RZY\\xacR\\x19\\x12@\\xc3\\x18\\xe3\\x9aW\\x1d\\xbc\\xcb\\xf4QE2B\\x99! \\x12:\\xe2\\x9fM|\\xf1\\x8a\\x00\\xcev,\\xf9\\x07\\x80*\\xf4*\\x15\\x00\\x0b\\xb4\\x9eH\\xf7\\xa8\\xc2a\\x8bl\\x19\\xcdM\\x19\\'9\\x14\\x90\\xd8\\xfa(\\xa2\\x98\\x82\\xab\\xdc\\xce! \\x18\\xe4l\\xf7U\\'\\xf9QE\\x00C\\xf6\\xd5\\xff\\x00\\x9e3\\xff\\x00\\xdf\\xb3S[N%$\\x08\\xe4\\\\\\x0e\\xac\\xa4\\x0f\\xd6\\x8a(\\x02\\xc5\\x14Q@\\x1f'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 17646
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 800,
+                    "h": 800,
+                    "size": 69900
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 1200,
+                    "h": 1200,
+                    "sizes": [
+                        11934,
+                        29441,
+                        51702,
+                        69116,
+                        85845
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityMention",
+            "offset": 42,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 106,
+            "length": 10
+        }
+    ],
+    "views": 758,
+    "forwards": 3,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

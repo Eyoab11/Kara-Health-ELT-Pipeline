@@ -1,0 +1,104 @@
+{
+    "_": "Message",
+    "id": 18598,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-16 06:11:04+00:00",
+    "message": "MUSINEX SEVER CONGESTION AND COUGH 20 TABLETS \nPrice 2500 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-25 16:02:23+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15824,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5836973865547449847,
+            "access_hash": 5224443016969140351,
+            "file_reference": "b\"\\x02cT\\xa8\\xf8\\x00\\x00H\\xa6hw\\xcdEu/\\xd9\\xe7\\xd9'~\\x01T\\x05\\xbc\\xcf\\xbe\\xef\\x040\"",
+            "date": "2024-10-29 12:59:02+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd7p\\x19\\x18\\x1e\\x84b\\xaa\\x93\\x02\\xb9B\\x98\\xc1\\xc6I5m\\xbe\\xe9\\xaa7\\x16\\xed\\xe7\\xb3\\x89\\xf1\\xbb\\xf8\\x0ep?*\\x02\\xec\\x91d\\x81\\x0f\\x98\\xa4\\x0e=O\\xadJ\\x93$\\x8d\\x80A?\\x8dQhe\\xff\\x00\\x9e\\xaa8\\xfe\\xf3T\\xd6\\xb6\\xce\\xb2\\xf9\\x8d9m\\xb9\\xf9y\\xc7\\xebN\\xc8.\\xd9z\\x8a(\\xa4\\x03%m\\x91;c8Rj\\xb2_\\xab\\xff\\x00\\x03\\x8f\\xc3\"\\xa7\\xb9\\xff\\x00\\x8fY\\x7f\\xdc?\\xca\\xb1\\xa1RWp\\xc7\\xe3I\\x9aB)\\xa6\\xd9\\xa5\\xf6\\x98\\xbd\\xf3\\xff\\x00\\x02\\xff\\x00\\nI5\\x04@p\\x8e\\x7f\\x0c\\n\\xcfo4\\x1c\\x85R1\\xd7\\xa5D\\xe5\\x8f-\\xb7\\xfe\\x02\\xd9\\xa2\\xe6\\x8a\\x9cY\\xd1QE\\x14\\xcer+\\x9f\\xf8\\xf6\\x97\\x1f\\xdc?\\xca\\xb0^\\t\\xd0\\x902\\x7f\\xdd\\xcd\\x14Re\\xc2M&7\\xcb\\xb8\\xfe\\xec\\x94\\xf4\\x81\\xb6r\\x8f\\xbb\\xe9E\\x14\\xach\\xa4\\xce\\x8a\\x8a(\\xaa0?'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 210,
+                    "h": 210,
+                    "size": 12645
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 73,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 150,
+            "length": 10
+        }
+    ],
+    "views": 435,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

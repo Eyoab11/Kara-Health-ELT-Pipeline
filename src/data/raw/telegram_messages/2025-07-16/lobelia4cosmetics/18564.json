@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 18564,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-14 12:45:25+00:00",
+    "message": "MIELLE  OIL \nPrice 2500 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-27 04:05:08+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15861,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5787536232169978466,
+            "access_hash": 2871783835332380784,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x84hw\\xcdE\\xeb\\x1e\\xa2\\x0f\\xe9\\xcc\\x9e\\xfc\\xeb\\xe0\\xfe.n\\x00/\\x80'",
+            "date": "2023-06-14 15:17:09+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01(\\x1d\\xd9\\xac\\xddVp\\x8d\\x12\\xab\\xe1\\x81\\xdc@\\xad*\\xc6\\xd4V)nK\\x07\\xe4\\x00\\x0e\\x07zM\\xd8i\\\\\\xd7GY\\x102\\x10T\\xf4\"\\x9dP\\xda\\x05[dE<(\\xc7\\xe3SS\\x10\\x87\\xa1\\xac\\xa3l\\x81Y|\\xc9\\x00\\xdd\\x9cdu\\xfc\\xaa\\xf5\\xc5\\xc7\\x95\\xc0\\xe4\\x9a\\x85\\xf3\\xb4\\xf3Y\\xc9\\xf4\\x0b\\x8e\\xd3\\xc6\\x04\\x98$\\xf2*\\xe5e\\xa4\\xcd\\x0b\\x823\\xb7\\xbe+B9RE\\xdc\\x8c\\x08\\xa7\\x17\\xa0^\\xe5Y\\xadf\\x96L\\xb3\\x8c\\x03\\xd3\\x15\\x0c\\x82\\xec\\x12\\x04\\x01\\x87\\xa84QO\\x95\\x05\\x87Ei$\\xbbZo\\x93\\x04\\xfc\\xa3\\xd2\\xad\\xc3n\"\\x0c\\x00\\\\g\\x8c\\x8c\\x9a(\\xa7d\\x16?'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 232,
+                    "h": 320,
+                    "size": 17071
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 579,
+                    "h": 800,
+                    "sizes": [
+                        6365,
+                        15756,
+                        31528,
+                        45005,
+                        68706
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 39,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 116,
+            "length": 10
+        }
+    ],
+    "views": 499,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}
