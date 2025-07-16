@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 18585,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-16 06:11:03+00:00",
+    "message": "IRON 365 TABLETS \nPrice 5000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት \n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-27 04:05:07+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15849,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5958475410859736613,
+            "access_hash": -8186102811010838088,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x99hw\\xcdER+\\x87\\x1b\\xe4\\x85C\\xe8,\\x0c\\x9e\\x17\\x8c\\xe0QS'",
+            "date": "2023-11-16 16:02:21+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b\"\\x01((\\xd9\\xa8.d\\xf2\\xc0bH^\\xf5=ej>|\\xd3\\x18\\x97>X\\xc7\\x00u\\xa9\\x92\\xba\\xb0\\xd6\\x84\\xff\\x00k\\x8b\\x1f\\xeb\\x0f\\xe4jkg\\xf3\\x030$\\xa9\\xe9\\x9a\\xc5\\xfb?n\\xfd*\\xe6\\x9ef\\x86a\\x13g\\xcb9\\xe0\\x8e\\x95\\x9ci(\\xbb\\xdcm\\xdc\\xd6\\xa2\\x8a+bB\\xa9\\xdcB&\\x90\\xa98\\xc1\\x07\\xf4\\xab\\x95Jg\\xd9r\\xc7<VU6\\xb9P\\xdfB/\\xb2\\xc6>S!\\xfam\\xa9m\\xe2\\x10\\xca\\xaa\\x0ey'\\xf4\\xa4y\\xb6\\x80\\xc3qc\\xdb4\\x90L\\xd2\\\\\\xa0+\\x8e\\xbd\\xfd\\xaa\\x13r\\xb5\\x86\\xe7\\xaf+/\\xd1E\\x15\\xd0@Vu\\xe7\\x9c\\x93\\x96X\\x99\\x90\\xe3\\x954QS$\\x9a\\xd4i\\xd9\\x95^b\\xe0\\x03\\x14\\x9cT\\xd6\\x11Hn\\x03\\x98Y\\x10\\x03\\xcb\\x1a(\\xa9\\x8cR\\xd0rI\\xbb\\xf55h\\xa2\\x8a\\xd0\\x93\""
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 18847
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 680,
+                    "h": 680,
+                    "sizes": [
+                        6065,
+                        15023,
+                        28110,
+                        35498,
+                        44312
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 44,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 121,
+            "length": 10
+        }
+    ],
+    "views": 298,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

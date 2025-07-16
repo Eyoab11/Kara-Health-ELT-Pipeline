@@ -1,0 +1,124 @@
+{
+    "_": "Message",
+    "id": 18555,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-14 09:25:54+00:00",
+    "message": "St. John's Wort 150 Capsules \nPrice 5000 birr  \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-20 14:47:50+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15708,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6005739073525890995,
+            "access_hash": -4840166081232072280,
+            "file_reference": "b\"\\x02cT\\xa8\\xf8\\x00\\x00H{hw\\xcdE\\x82\\xfaQG\\xb4\\x90O<\\xd4'\\xa6\\x83\\x9bY\\x90\\x05\"",
+            "date": "2024-06-13 06:53:28+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd9\\xa8ne\\x10Bdc\\x80:\\x9cf\\xa6\\xac\\xcdIf\\x99\\xfc\\xa1*$X\\xe4\\x1e\\xf5/`\\x18\\xda\\xb4}\\xa4?\\xf7\\xcd_\\xb4\\x9b\\xcf\\x809\\xe7\\'\\xae1XgN8\\xcf\\x9a\\x98\\xf5\\xe7\\xfc*\\xfe\\x98%\\x85\\xfc\\xa6\\x95\\x1e>\\xc0\\x1e\\x951I=\\xc2\\xf75(\\xa2\\x8a\\xd0\\x02\\xaa\\xcb\\x1a\\xb4\\x8epK\\x01\\xc7&\\xadV]\\xdd\\xe3\\xdb_\\x15\\n\\x19J\\x83\\x8aM7\\xb0\\x12l\\x8c\\x9cm\\xe4u\\xe7\\xbf\\xe7R\\xc5\\x12\\xac\\xc8\\xc0`\\xfd}\\xaa\\x97\\xdb\\x86wy?7\\\\\\x9cS\\xado^\\xe2\\xfd\\x10\\xae\\xd5\\xe7\\x8f\\xc2\\x87\\x16\\x16F\\xb5\\x14QL\\x02\\xb2\\xb5\\x1b)\\xe6\\xb9\\xf3\"M\\xc3\\x00p@\\xc5\\x14Q{\\x01W\\xec7\\x98\\xc7\\x91\\x93\\xeb\\xbc\\x7f\\x8dY\\xb0\\xb3\\x9e+\\xa1$\\xb1\\x84\\x00\\x1f\\xe2\\xcd\\x14P\\xdb\\x03Z\\x8a(\\xa0\\x0f'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 18701
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 800,
+                    "h": 800,
+                    "size": 74471
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 1280,
+                    "h": 1280,
+                    "sizes": [
+                        15316,
+                        34693,
+                        63243,
+                        90376,
+                        147044
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 57,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 134,
+            "length": 10
+        }
+    ],
+    "views": 384,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

@@ -1,0 +1,98 @@
+{
+    "_": "Message",
+    "id": 172811,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 10:56:03+00:00",
+    "message": "Urgent vacancy\n\n\n# pharmasist\n\nExperiance 3 years and above\n\n   Work area \n\n(1) bole micheal\n\n(2) abado\n\n(3) mekanisa \n\n(4) lafto \n\n(5) mecsico\n\n(6) burau\n\n\nInfo  * 0960090500 & 0941443030\nመገናኛ ለም ሆቴል ቶታል ማደያ አጠገብ ለገሰ ፈለቀ ህንጻ 212 Maleda HR \n     \n9/11/17",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": true,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-16 10:56:00+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25342,
+        "post_author": "maleda medical 41",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25342,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [],
+    "views": 482,
+    "forwards": 1,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": "2025-07-16 11:07:55+00:00",
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": {
+        "_": "MessageReactions",
+        "results": [
+            {
+                "_": "ReactionCount",
+                "reaction": {
+                    "_": "ReactionEmoji",
+                    "emoticon": "👍"
+                },
+                "count": 1,
+                "chosen_order": null
+            }
+        ],
+        "min": false,
+        "can_see_list": false,
+        "reactions_as_tags": false,
+        "recent_reactions": [],
+        "top_reactors": []
+    },
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

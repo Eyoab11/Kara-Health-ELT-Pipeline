@@ -1,0 +1,174 @@
+{
+    "_": "Message",
+    "id": 172676,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-15 05:13:14+00:00",
+    "message": "#የሞያ_ፈቃድ_ለማሳደስ_CPD_ይመዝገቡ(CPD_አሁን_ይመዝገቡ)\nTraining Title=MEDICAL ETHICS!\n🔶15CEU\n👉 #ከሐምሌ_12 ጀምሮ ይሰጣል!\n\nለሁሉም ጤና ባለሞያዎች በሁሉም ክልሎችና ከተሞች ላላችሁ።\n\n👨‍💻Online \n--------------------------------------------\n   📲0965412222 Dr.Shalom\n   📲0941404444 Daye\n   📲0942404444  Tenbit\n   📲0965410000  Ekram\n   📲0968670067 Selam\n   ☎️0462124400 Office\n\n Ethio-American CPD center & Health Consultancy\n🏃We Are Committed To Excellence In Medical Trainings ❗\nFor more info join our telegram channel                t.me/eahci",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-14 14:56:19+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1432982009
+        },
+        "from_name": null,
+        "channel_post": 2834,
+        "post_author": null,
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25294,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6028250234074811040,
+            "access_hash": 1814411066375936457,
+            "file_reference": "b'\\x02]\\x92VM\\x00\\x02\\xa2\\x84hw\\xcd\\xf8\\xad>\\xe3\\x83\\xa6\\xd6\\xeb\\xb3\\xa5\\x0c\\x08\"(\\xc3k\\x81'",
+            "date": "2025-07-14 14:56:19+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xb2\\n\\xb7I\\xdb=\\xba\\xd3\\xbc\\xc5\\xc6\\xf11\\x03\\x81\\xc8\\xa8.&Do-F_\\xf9TBF\\xe4dq\\xf4\\xab\\xd0\\x9b\\xb2\\xeeXpg9\\xc9\\xe7e\\x08\\xcc\\xc7\\x02^\\xbfw\\x8f\\xce\\xa8\\xb5\\xc4\\x9bKn\\xf9\\xbb\\xf4\\xefV\\xadrbWa\\xf3\\x1aZ\\x03v\\'=\\x00\\'q\\x1d\\xe8\\xaa\\xfb\\xa7\\xfbF?\\x839\\xe9\\xdb\\xebE\\x04=J\\x8d\\x0c\\xd29snI?Zb\\xc6\\xdei\\x8f\\xc9\\xf9\\xc7\\xf0\\xe6\\xb5\\xee%\\xf2ai?\\xbbY\\xa2\\xec\\xb4\\xd2K\\xb8m\\x03\\xa8QJ\\xe6\\x89\\x02\\xdbbE\\x12\\xa0RO\\xdd\\x07\\xad$\\xc3\\xcd\\x0b\\xb1\\xc9`\\xdd=\\xbf\\xfa\\xd5f)7\\xca\\x8f#\\xf0\\x06y\\x1e\\xbe\\xf8\\xa9\\x04A_8\\x1e\\xc7\\xf1\\xa6\\x98XN\\xb3\\xa6\\xd93\\xc6\\n\\xe7\\xb7\\xff\\x00\\xae\\x8aH\\x90\\x9b\\x8d\\xd1\\x8e\\x01\\xe7\\xde\\x8a\\x05b\\x13r\\xf2G\\xb5\\xc8\\xc3\\x0eF*\\xa3\"\\x86;\\x13#\\xb8\\xedE\\x14X/b\\xc1\\xde-\\x84\\x84\\x91\\xdb\\xe8iRr\\xdf\"@\\xc0\\xf5\\xc8\\xefE\\x14\\x9a\\x1aa\\x1aL\\x84\\xcc\\x03\\x00\\xbc\\x9d\\xe2\\x8a(\\xa1!\\xb6\\x7f'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 36366
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 800,
+                    "h": 800,
+                    "size": 124098
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 1080,
+                    "h": 1080,
+                    "sizes": [
+                        18379,
+                        49612,
+                        85051,
+                        116161,
+                        187551
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 0,
+            "length": 24
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 24
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 24,
+            "length": 58
+        },
+        {
+            "_": "MessageEntityHashtag",
+            "offset": 82,
+            "length": 8
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 82,
+            "length": 5
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 88,
+            "length": 2
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 90,
+            "length": 407
+        },
+        {
+            "_": "MessageEntityUrl",
+            "offset": 497,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 497,
+            "length": 10
+        }
+    ],
+    "views": 10828,
+    "forwards": 7,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

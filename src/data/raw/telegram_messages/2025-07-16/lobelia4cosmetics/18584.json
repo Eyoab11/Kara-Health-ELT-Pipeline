@@ -1,0 +1,124 @@
+{
+    "_": "Message",
+    "id": 18584,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-15 15:04:23+00:00",
+    "message": "CINNAMON TOAST CRUSHE\nPrice 3400 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school ALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": null,
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6030367820455463754,
+            "access_hash": -5271175162002304544,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x98hw\\xcdE\\x10-/+1\\xd0\\xbar\\x04@r\\x03x\\xe0q\\x85'",
+            "date": "2025-07-15 15:04:23+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b\"\\x01((\\xd5\\x98\\xe23\\x8c\\xfe\\x15UF\\xfcfW\\xe4t$\\xe6\\xac\\xdc\\x7f\\xa9l\\x0c\\xf4\\xfeuY[lK\\x9e\\x07OZ\\x00C\\x10\\x07>a\\xe3\\xdc\\xd3R@\\x8f\\x94Y\\x7f,\\xd3\\x8b\\xa63\\x92H\\xe9\\xc54e\\xd3\\x18e#\\xf8\\x8f_\\xc6\\x90\\xcb\\xd1?\\x99\\x18b\\n\\x93\\xd8\\xd1I\\x01-\\n\\x93\\xd4\\x8a)\\xa11.\\x7f\\xd47\\xe1\\xfc\\xea\\x989@\\x92\\x0c\\x802E[\\xba\\xff\\x00\\x8fw\\xff\\x00=\\xea\\xa2\\x02cW^OC\\xee)\\\\hnI\\xc8\\x04\\x80:\\x00i\\xc3x\\xc3\\x1e#\\x1f|S\\x0c\\x860T\\x1c\\x82s\\xc50\\xc8P1\\xea?J\\\\\\xda\\xe8W.\\x9a\\x9ap\\x90\\xd1\\xa9^\\x94S,\\x81\\x16\\xa9\\xbb\\xaf'\\xf5\\xa2\\xa8\\x87\\xb9$\\xb1\\x89cd<f\\xa8|\\xf1(\\x89\\xb9a\\xd7\\xde\\x8a(b\\xbd\\x88]e-\\x94\\x81\\xcf\\xea*Hmfu\\xcc\\xca}\\x97 \\n(\\xa2\\xc9\\x0e\\xed\\x9a1\\x02\\xa8\\x01\\xebE\\x14P\\x07\""
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 38124
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 554,
+                    "h": 554,
+                    "sizes": [
+                        4577,
+                        13772,
+                        24559,
+                        37924,
+                        62877
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 21,
+            "length": 27
+        },
+        {
+            "_": "MessageEntityMention",
+            "offset": 48,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 48,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 65,
+            "length": 47
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 112,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 112,
+            "length": 10
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 122,
+            "length": 267
+        }
+    ],
+    "views": 873,
+    "forwards": 1,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

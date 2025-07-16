@@ -1,0 +1,117 @@
+{
+    "_": "Message",
+    "id": 18587,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-16 06:11:04+00:00",
+    "message": "LAROCHE POSAY DOUBLE REPAIR MOISTURIZER \nPrice 5000 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-03-25 14:56:03+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 16334,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5987980118196342232,
+            "access_hash": 8166148409709987955,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x9bhw\\xcdE\\xe8\\x9cA\\x17G\\x9f[\\xa5\\xac&\\x81\\xfa\\x9a\\xcdDE'",
+            "date": "2025-03-25 14:56:02+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd9\\xa6\\x90s\\xc1\\xa7S\\x181\\xfb\\xa7\\x14\\x01\\x07\\x9e\\xc2\\xe3\\xca\\xc7\\xe3\\xf8T\\xa1\\xce\\xf0\\xb4\\xd3\\x19\\xdd\\xbb#>\\xb8\\x14\\xd4\\x07\\xcc\\xe4\\xe4\\xd3v%\\'\\xd4\\xb3E\\x00b\\x8aE\\x01\\xa8\\x8b\\x9c\\x9d\\xb8\\xfc\\xa9\\xed\\xd2\\x9a\\x0e\\xde\\x00\\x04\\xd0\\x03w\\xb6>a\\xf9\\n\"\\xe5\\xcd)\\x7fQ\\x8aHNY\\xb1@\\x13QE\\x14\\x01\\x1b\\xee\\'\\n?\\x13B\\xa6\\xcez\\x93\\xd4\\xd1E\\x00#\\x02\\xc6\\x88P\\xae\\xec\\x8e\\xb4Q@\\x12\\xd1E\\x14\\x01'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 13374
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 554,
+                    "h": 554,
+                    "sizes": [
+                        2665,
+                        5150,
+                        8127,
+                        12483,
+                        20634
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityMention",
+            "offset": 67,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 131,
+            "length": 10
+        }
+    ],
+    "views": 259,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

@@ -1,0 +1,143 @@
+{
+    "_": "Message",
+    "id": 172770,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 05:28:30+00:00",
+    "message": "✨ Advanced Ultrasound Technology \n\n🔹 P10 & S12 Ultrasound Machines  \n\n🔹Experience precision, performance, and portability with the P10 and S12 models – designed for today's fast-paced clinical environments.\n\n✅ P10 Ultrasound – Portable, compact, ideal for bedside and emergency use\n\n✅ S12 Ultrasound – High-resolution imaging with multiple probes, perfect for OB/GYN, general, and cardiac applications\n\nContact : 0912056877",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-16 05:28:27+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25321,
+        "post_author": "Nardos Biomedical engineer and sale manager",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25321,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 6032593193335375900,
+            "access_hash": -3382269965495628295,
+            "file_reference": "b'\\x02]\\x92VM\\x00\\x02\\xa2\\xe2hw\\xcd\\xf8\\xceJ\\xb3\\xf3\\xd3\\xdda\\xdd<\\x15\\xbfs\\xbd\\xba\\xfft'",
+            "date": "2025-07-16 05:28:26+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01((\\xd7\\xda=\\xff\\x00:\\x82\\xf2\\xe3\\xecv\\xfe`]\\xfc\\xe3\\x04\\xd5\\x9a\\x82\\xf6(\\xe5\\xb7a.v\\x8f\\x9b\\x8a\\x00\\xcf\\xfe\\xdb;wy\\x03\\x1f\\xefV\\x9c\\x12y\\xb0\\xa4\\x98\\xc6\\xe5\\x07\\x15\\x83\\x12\\xd9\\xbd\\xc6\\xc2\\x92\\x05f\\x01~n\\x9fZ\\xe8#\\x8cE\\x1a\\xa2\\xf4Q\\x81\\x9a\\x00u\\x14Q@\\x05Ep\\xa5\\xe2+\\x8c\\x83\\xd7\\xe9R\\xd3%uH\\x99\\x98\\xe0\\x01\\xd6\\x803\\x10Y<\\x9e\\\\h\\xac\\xc7\\xa1\\xe0\\x7fJ\\xd5\\x03\\x00\\x0fJ\\xc5\\x85\"\\x82H%\\xe4t,s\\xc0\\xe2\\xb6\\xe8\\x00\\xa2\\x8a(\\x00\\xaa\\xf7\\xca^\\r\\x83w\\xcc@;Fh\\xa2\\x802\\xcd\\x84\\xf8\\xf9\\xdd\\x8a\\x0e\\xd5\\xb1\\x01&\\x14\\'$\\xe3\\x92F\\t\\xa2\\x8a\\x00\\x92\\x8a(\\xa0\\x0f'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 12182
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 800,
+                    "h": 800,
+                    "sizes": [
+                        5164,
+                        11231,
+                        18296,
+                        24775,
+                        31132
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 0,
+            "length": 33
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 38,
+            "length": 29
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 133,
+            "length": 3
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 141,
+            "length": 3
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 212,
+            "length": 14
+        },
+        {
+            "_": "MessageEntityBold",
+            "offset": 287,
+            "length": 14
+        }
+    ],
+    "views": 341,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": -5763717561719027611,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

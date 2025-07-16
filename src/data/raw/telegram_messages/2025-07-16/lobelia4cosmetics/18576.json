@@ -1,0 +1,106 @@
+{
+    "_": "Message",
+    "id": 18576,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-15 05:38:25+00:00",
+    "message": "",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-26 13:22:24+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15840,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5850618710358870438,
+            "access_hash": -4261427814888291726,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x90hw\\xcdE]\\n98P`\\xa5\\xa4\\xea\\r\\x00\\x84\\xb8\\x8el\\xea'",
+            "date": "2025-02-07 06:24:44+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b\"\\x01((\\xd5\\x9d\\x8a@\\xec\\xbdB\\x92+0]\\xdd\\x15\\xcex\\xf5\\xda+J\\xe7\\xfe=\\xa4\\xff\\x00t\\xd6j\\xce\\x82\\xd8E\\x86\\xcf\\xe9\\xd6\\xae+C9\\xbdw\\x10\\xde]/W\\xfd\\x05'\\xdb\\xae\\x7f\\xe7\\xa7\\xe8)|\\xd4\\xc6=\\xbf\\xcfj\\x89@\\xdes\\xca\\x8c\\x9a\\xbb.\\xc6\\\\\\xcf\\xb9\\xb3\\x03\\x17\\x81\\x19\\xba\\x90\\t\\xa2\\x92\\xd7\\xfe=\\xa3\\xff\\x00tQX\\xbd\\xce\\x95\\xb0\\\\\\xff\\x00\\xc7\\xb4\\x9f\\xee\\x9a\\xc6\\x0e\\xc0`\\x1a\\xd9\\xb9\\xff\\x00\\x8fi?\\xdd5\\x8c\\x08\\xc75\\xa461\\xa9\\xb8\\xe5vc\\xb7<\\x1fsS\\xc7\\x12\\xe0\\x122\\rEn\\xa8\\x12Fb2\\x07\\x02\\x9f\\x1c\\xee~]\\x84\\xb5gU\\xbb\\x9a\\xd3I-MH@\\x10\\xa0^\\x98\\xa2\\x92\\x03\\x98P\\xfbQB\\x18\\x93\\xa9h\\x1dTd\\x95 VW\\xd9.\\xc6@\\x8f\\x83\\xee?\\xc6\\x8a)\\xa7bZM\\x8al\\xae3\\xc4_\\xf8\\xf0\\xa9\\x92\\xd2A\\x1f1\\xb6\\xff\\x00f\\x1f\\xe3E\\x15NM\\xa2TR4c\\x18@\\x08\\xc7\\x1d=(\\xa2\\x8a\\x8b\\x1a\\x1f\""
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 24374
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "x",
+                    "w": 360,
+                    "h": 360,
+                    "sizes": [
+                        2659,
+                        6572,
+                        12402,
+                        17126,
+                        25734
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [],
+    "views": 570,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

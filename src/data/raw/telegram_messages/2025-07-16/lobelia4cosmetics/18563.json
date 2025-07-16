@@ -1,0 +1,124 @@
+{
+    "_": "Message",
+    "id": 18563,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-14 12:45:25+00:00",
+    "message": "MARY RUTH'S  LIQUID MULTIVITAMIN 650ML\nPrice 8000 birr \nTelegram @Lobeliacosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nALEMNESH PLAZA GROUND FLOOR \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 500 ብር\nFor delivery option fees are from 70 birr - 500 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-04-24 15:25:13+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 16986,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5787676922413696871,
+            "access_hash": 3514668152003120660,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x83hw\\xcdE\\xdeD\\xc7\\xe2a\\xdd\\xa3A\\xd2\\xa0`\\xee\\\\gu\\x8f'",
+            "date": "2025-04-24 15:25:13+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b'\\x01( ~\\xa9r\\x8c\\xa28\\xc9%[\\xe6#\\xa7\\xd2\\xa4\\xb0\\x9a)\\xed\\x96\\x06b$^\\xbc\\xe3<\\xd4\\xf2\\xc1\\x0cc>_^\\xf94\\xd4\\x8a<G L6}O\\xad\"\\xbd\\xde\\x82\\xbcqG\\xd4\\xb1\\xfa\\x9c\\xd3\\x92(B\\x89P\\x1c\\xf5\\x07&\\x9a\\xf0\\xeer\\xe0\\x15\\'\\xa8\\xebR\\x80#\\x87o@=i\\x85\\xe4+\\x82[\\xa7\\x18\\xf5\\xa8\\xdbq\\x18#\\x1c\\x80\\x0fZQu\\x13p\\x1b\\xa7\\xa84\\xc6\\xb8\\x8d\\x9dP\\x1er;\\x1aC\\xb3\\xb6\\xc4\\x98\\x1e\\xbf\\xa0\\xa1P\\xe3;\\xf3\\xf8Pc\\x01\\xb8Q\\xc7\\xfb5 P\\x8aN1\\xeb@\\x9b1w\\x98\\xa4\\xdb\":\\x9a\\x10\\xc9$\\xb9\\x85\\x1f \\xf5\\xc6h\\xa2\\x82\\xddV\\xd1d5\\xc7ul\\xff\\x00\\xd7?\\xfe\\xb5*\\xc9r\\xcc\\x10\\x03\\xb4\\x9e~\\\\QE\\x05s&\\xb6?'"
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 251,
+                    "h": 320,
+                    "size": 31504
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 627,
+                    "h": 800,
+                    "size": 127958
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 1004,
+                    "h": 1280,
+                    "sizes": [
+                        16353,
+                        46949,
+                        76459,
+                        107695,
+                        171554
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityMention",
+            "offset": 65,
+            "length": 17
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 129,
+            "length": 10
+        }
+    ],
+    "views": 324,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

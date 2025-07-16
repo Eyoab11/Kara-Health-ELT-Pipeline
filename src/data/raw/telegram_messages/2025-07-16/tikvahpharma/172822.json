@@ -1,0 +1,96 @@
+{
+    "_": "Message",
+    "id": 172822,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 13:22:45+00:00",
+    "message": "16-07-25\nNow available with attractive price-Free delivery\n\n💊.Amoxy 125 susp \n📦 100bottles\n⏳ Dec-27\n\n💊.Amoxy 500mg caps \n📦 105 packs\n⏳ Mar-28\n\n💊.Clavamyn 625mg of 20\n📦 117 packs\n⏳ Jan-27\n\n💊. Ibuprofen 400mg\n📦 120 packs\n⏳ Nov-27\n\n💊.Iron+folate+B12+Zn syrup \n📦 72 bottles\n⏳ Mar-27\n\n💊.Pregabalin 75mg\n📦 360pack\n⏳ Dec-27\n\n💊.Cloxa susp 125mg \n📦 100bottles\n⏳ Jun-27\n\n💊.Mebendazole susp\n📦 200bottles \n⏳ Aug-27\n\n💊.Vit B-Complex inj \n📦 20packs\n⏳Dec-27\n\n💊.Superil lozenge \n📦 80packs\n⏳ Jul-27\n\n💊.Metro injection\n📦 100 plastic bags\n⏳ Aug-27\n\n     ☎️ :-0911884446\n    ☎️  :-0903327887",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-16 13:22:42+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25344,
+        "post_author": "Sinishaw Emirie",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25344,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityBold",
+            "offset": 9,
+            "length": 512
+        },
+        {
+            "_": "MessageEntityItalic",
+            "offset": 9,
+            "length": 49
+        },
+        {
+            "_": "MessageEntityUnderline",
+            "offset": 9,
+            "length": 49
+        }
+    ],
+    "views": 374,
+    "forwards": 0,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

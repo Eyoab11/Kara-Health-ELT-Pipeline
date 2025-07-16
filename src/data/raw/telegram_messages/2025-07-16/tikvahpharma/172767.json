@@ -1,0 +1,86 @@
+{
+    "_": "Message",
+    "id": 172767,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1569871437
+    },
+    "date": "2025-07-16 05:02:05+00:00",
+    "message": "PHARMAKON TRADING HOUSE PLC (IMPORTER)\n\n    ♟   IMMAGING CONSUMABLES \n🌀Ultrasound Gel With dispensor.\n🌀ultrasound paper110*20m\n🌀ECG PAPER 210*295\n🌀ECG PAPER 210*140(zfold).\n🌀ECG paper 210*140mm roll \n🌀ECG paper 215*30m(roll).....\n🌀ECG paper 215*20m(roll).\n🌀ECG paper 210*280..z fold .\n🌀ECG paper 110*140..z fold\n\n     ♟MEDICAL CONSUMABLE \n🌫Tongue Depressor(Spatula)\n🌫Epidural kit 18..........\n🌫Endotracheal Tube .....\n    ¤Size 2.5, 3, 3.5, 4, 4.5, 5 & 5.5      \n🌫,Endotracheal Tube....\n     ¤size 6,6.5,7 & 7.5       \n🌫IV  Cannula \n     ¤    Size 18...\n🌫Folly Catheter Two way..\n    ¤  Size16 &18    \n🌫NG Tubes.......\n         ¤ Size 16 &18 \n🌫Spinal needles.......\n      ¤size  21,22,23 & 24\n🌫 URINE BAG 2000ML..\n🌫First Aid plaster of 100..\n🌫  SURGICAL BLADES\n     Size #10,11,15,23,&24\n\n@pharmainfocenter\n\"PHARMAKON-THE  ONE YOU TRUST\"\n📶🤳\n0915407070    ÃNWAR\n0921058468.    NEJIB\n0944703333    Alemseged \n0915608080    yemesrach \n0915607070   AHMED",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": false,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": true,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": {
+        "_": "PeerChannel",
+        "channel_id": 1353257880
+    },
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-07-16 05:02:02+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "from_name": null,
+        "channel_post": 25318,
+        "post_author": "NEJIB Pharmakon",
+        "saved_from_peer": {
+            "_": "PeerChannel",
+            "channel_id": 1353257880
+        },
+        "saved_from_msg_id": 25318,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": null,
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityMention",
+            "offset": 809,
+            "length": 17
+        }
+    ],
+    "views": 334,
+    "forwards": 0,
+    "replies": {
+        "_": "MessageReplies",
+        "replies": 0,
+        "replies_pts": 376731,
+        "comments": false,
+        "recent_repliers": [],
+        "channel_id": null,
+        "max_id": null,
+        "read_max_id": null
+    },
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": null,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}

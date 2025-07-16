@@ -1,0 +1,124 @@
+{
+    "_": "Message",
+    "id": 18568,
+    "peer_id": {
+        "_": "PeerChannel",
+        "channel_id": 1666492664
+    },
+    "date": "2025-07-14 12:45:26+00:00",
+    "message": "EUCERIN ANTI PIGMENT DUAL SERUM \nPrice 8000 birr \nTelegram https://t.me/lobelia4cosmetics\nMsg👉 Lobelia pharmacy and cosmetics \n☎️ call 0911562031/0911587703\nAdress:- Infront of Bole Medhanialem high school \nOpen Monday - Monday from 8am until midnight ከሰኞ - እስከ ሰኞ  ከጧቱ 2:00 ስዓት - እስከ ምሽቱ 6:00 ሰዓት\n🏍🏍🏍 የትራንስፖርት አማራጭ ከ70 - 200 ብር\nFor delivery option fees are from 70 birr - 200 birr",
+    "out": false,
+    "mentioned": false,
+    "media_unread": false,
+    "silent": false,
+    "post": true,
+    "from_scheduled": false,
+    "legacy": false,
+    "edit_hide": false,
+    "pinned": false,
+    "noforwards": false,
+    "invert_media": false,
+    "offline": false,
+    "video_processing_pending": false,
+    "from_id": null,
+    "from_boosts_applied": null,
+    "saved_peer_id": null,
+    "fwd_from": {
+        "_": "MessageFwdHeader",
+        "date": "2025-02-25 13:40:49+00:00",
+        "imported": false,
+        "saved_out": false,
+        "from_id": {
+            "_": "PeerChannel",
+            "channel_id": 1666492664
+        },
+        "from_name": null,
+        "channel_post": 15809,
+        "post_author": null,
+        "saved_from_peer": null,
+        "saved_from_msg_id": null,
+        "saved_from_id": null,
+        "saved_from_name": null,
+        "saved_date": null,
+        "psa_type": null
+    },
+    "via_bot_id": null,
+    "via_business_bot_id": null,
+    "reply_to": null,
+    "media": {
+        "_": "MessageMediaPhoto",
+        "spoiler": false,
+        "photo": {
+            "_": "Photo",
+            "id": 5859223518422614587,
+            "access_hash": -7374321599355208603,
+            "file_reference": "b'\\x02cT\\xa8\\xf8\\x00\\x00H\\x88hw\\xcdE\\xfc:8\\x14\\x13\\xa1-\\x0c\\xa8\\n\\xbaz\\x96\\xb2R\\x80'",
+            "date": "2024-07-31 13:21:01+00:00",
+            "sizes": [
+                {
+                    "_": "PhotoStrippedSize",
+                    "type": "i",
+                    "bytes": "b\"\\x01((\\xd9$($\\xf4\\x14\\xc6\\x95\\x14\\xa8f\\xc1n\\x80\\xf7\\xa2o\\xf5O\\xfe\\xe9\\xaa\\xb7\\x9f\\xf1\\xf3m\\xfe\\xf5\\x00Y3/\\xf7\\xba\\xfbR\\xa3n\\x19\\xcf\\x1fJ\\xae\\x19\\x00!\\xca\\xe0z\\x8c\\xd4\\xb0\\xc8\\x8f\\x90\\xad\\x9f\\xc2\\x80&\\xa2\\x8a(\\x01\\x92\\x8c\\xc4\\xc3\\xda\\xa8\\xdd8{\\x88NG\\xcasW\\xe4\\xff\\x00V\\xdfJ\\xcf\\xb8\\xc7\\xda\\x13\\x8a\\x06\\x85\\x90\\r\\xac\\xc7\\xdb\\xbdOg\\x1e\\xd5,\\x0fZ\\x85\\xc6Q\\xbb\\x1e:}\\x05Y\\xb5\\xe2?Z\\x06\\xf6'\\xa2\\x8a($l\\x9f\\xea\\xdb\\xe9T%F.\\xa7a>\\xf8\\xa2\\x8aCD\\xabn\\xee\\xb99\\x00\\xe2\\xacC\\x19\\x8dpNh\\xa2\\x98\\x9b$\\xa2\\x8a(\\x03\""
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "m",
+                    "w": 320,
+                    "h": 320,
+                    "size": 14798
+                },
+                {
+                    "_": "PhotoSize",
+                    "type": "x",
+                    "w": 800,
+                    "h": 799,
+                    "size": 57034
+                },
+                {
+                    "_": "PhotoSizeProgressive",
+                    "type": "y",
+                    "w": 1280,
+                    "h": 1279,
+                    "sizes": [
+                        17119,
+                        36972,
+                        50405,
+                        75764,
+                        101173
+                    ]
+                }
+            ],
+            "dc_id": 4,
+            "has_stickers": false,
+            "video_sizes": []
+        },
+        "ttl_seconds": null
+    },
+    "reply_markup": null,
+    "entities": [
+        {
+            "_": "MessageEntityUrl",
+            "offset": 59,
+            "length": 30
+        },
+        {
+            "_": "MessageEntityPhone",
+            "offset": 136,
+            "length": 10
+        }
+    ],
+    "views": 527,
+    "forwards": 0,
+    "replies": null,
+    "edit_date": null,
+    "post_author": null,
+    "grouped_id": null,
+    "reactions": null,
+    "restriction_reason": [],
+    "ttl_period": 8035200,
+    "quick_reply_shortcut_id": null,
+    "effect": null,
+    "factcheck": null,
+    "report_delivery_until_date": null,
+    "paid_message_stars": null
+}
