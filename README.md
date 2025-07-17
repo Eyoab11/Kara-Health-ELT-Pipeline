@@ -294,4 +294,109 @@ data/
 
 ---
 
-For more details, see the code and dbt documentation in the project.
+# Task 4: Analytical API (FastAPI)
+
+## Overview
+The project exposes a RESTful API using FastAPI to provide analytical insights from the processed Telegram data. The API enables programmatic access to product trends, channel activity, and message search, supporting business intelligence and reporting use cases.
+
+## How to Run the API
+1. Ensure the database and all dbt models are up to date (see previous tasks).
+2. Start the FastAPI application (if not already running via Docker Compose):
+   ```bash
+   docker-compose up -d
+   # or, if running locally:
+   uvicorn src.api.main:app --reload
+   ```
+3. The API will be available at: `http://localhost:8000`
+4. Interactive docs: `http://localhost:8000/docs`
+
+## Available Endpoints
+
+| Endpoint | Method | Description |
+|----------|--------|-------------|
+| `/api/reports/top-products` | GET | Returns the most frequently mentioned words (proxy for products) |
+| `/api/channels/{channel_name}/activity` | GET | Returns posting activity for a given channel |
+| `/api/search/messages` | GET | Searches messages for a keyword |
+
+---
+
+### 1. Get Top Products
+- **Endpoint:** `/api/reports/top-products`
+- **Method:** `GET`
+- **Query Parameters:**
+  - `limit` (optional, int, default=10): Number of top products to return
+- **Description:** Returns the most frequently mentioned words in messages (as a proxy for product mentions).
+- **Example Request:**
+  ```http
+  GET /api/reports/top-products?limit=5
+  ```
+- **Example Response:**
+  ```json
+  [
+    { "product": "paracetamol", "count": 42 },
+    { "product": "amoxicillin", "count": 37 },
+    { "product": "vitamin", "count": 29 }
+  ]
+  ```
+
+### 2. Get Channel Activity
+- **Endpoint:** `/api/channels/{channel_name}/activity`
+- **Method:** `GET`
+- **Path Parameters:**
+  - `channel_name` (string): Name of the Telegram channel
+- **Description:** Returns total messages and daily posting activity for the specified channel.
+- **Example Request:**
+  ```http
+  GET /api/channels/lobelia4cosmetics/activity
+  ```
+- **Example Response:**
+  ```json
+  {
+    "channel_name": "lobelia4cosmetics",
+    "total_messages": 120,
+    "messages_per_day": [
+      { "date": "2024-07-16", "count": 15 },
+      { "date": "2024-07-17", "count": 20 }
+    ]
+  }
+  ```
+- **Error Response:**
+  ```json
+  { "detail": "Channel not found or no activity." }
+  ```
+
+### 3. Search Messages
+- **Endpoint:** `/api/search/messages`
+- **Method:** `GET`
+- **Query Parameters:**
+  - `query` (string, required): Keyword to search for in messages
+- **Description:** Returns up to 50 recent messages containing the search keyword.
+- **Example Request:**
+  ```http
+  GET /api/search/messages?query=paracetamol
+  ```
+- **Example Response:**
+  ```json
+  [
+    {
+      "message_id": 18555,
+      "channel_name": "lobelia4cosmetics",
+      "message_date": "2024-07-16",
+      "text": "Paracetamol 500mg now available!"
+    },
+    {
+      "message_id": 172713,
+      "channel_name": "tikvahpharma",
+      "message_date": "2024-07-16",
+      "text": "Special on paracetamol this week."
+    }
+  ]
+  ```
+
+---
+
+## API Documentation
+- Interactive Swagger UI: [http://localhost:8000/docs](http://localhost:8000/docs)
+- Redoc: [http://localhost:8000/redoc](http://localhost:8000/redoc)
+
+For further details, see the code in `src/api/`.

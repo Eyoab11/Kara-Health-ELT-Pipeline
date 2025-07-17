@@ -13,9 +13,8 @@ telethon
 dbt-postgres
 
 # Data Enrichment
-# ultralytics
-# torch
-# torchvision
+ultralytics
+
 
 # Orchestration
 dagster
@@ -27,3 +26,7 @@ python-dotenv
 
 
 ultralytics
+
+
+fastapi
+uvicorn
