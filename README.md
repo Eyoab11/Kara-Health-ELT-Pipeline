@@ -400,3 +400,47 @@ The project exposes a RESTful API using FastAPI to provide analytical insights f
 - Redoc: [http://localhost:8000/redoc](http://localhost:8000/redoc)
 
 For further details, see the code in `src/api/`.
+
+---
+
+# Task 5: Pipeline Orchestration (Dagster)
+
+## What Was Done
+- Introduced [Dagster](https://dagster.io/) for robust, observable, and schedulable pipeline orchestration.
+- Defined pipeline steps as Dagster ops:
+  - `scrape_telegram_data`: Scrapes Telegram channels for new messages and images.
+  - `load_raw_to_postgres`: Loads raw JSON files into PostgreSQL.
+  - `run_dbt_transformations`: Runs dbt models and tests to transform and validate data.
+  - `run_yolo_enrichment`: Runs YOLOv8 enrichment on images and stores detections.
+- Combined all steps into a single Dagster job (`kara_pipeline`) for end-to-end execution.
+- Ready for scheduling and monitoring via Dagster's local UI.
+
+## How to Set Up and Use Dagster
+
+### 1. Install Dagster
+If not already installed:
+```bash
+pip install dagster dagster-webserver
+```
+
+### 2. Pipeline Definition
+- The pipeline is defined in `src/orchestration/definitions.py`.
+- Each step is a Dagster op that calls the corresponding script or command.
+- The job `kara_pipeline` runs all steps in sequence.
+
+### 3. Launch the Dagster UI
+Start the Dagster development UI:
+```bash
+dagster dev
+```
+- Access the UI at [http://localhost:3000](http://localhost:3000)
+- You can trigger the pipeline manually, inspect logs, and monitor runs.
+
+### 4. Run the Pipeline
+- In the Dagster UI, select the `kara_pipeline` job and click "Launch Run" to execute the full pipeline.
+
+### 5. (Optional) Scheduling
+- You can add a schedule in `src/orchestration/definitions.py` to run the pipeline automatically (e.g., daily).
+- See [Dagster scheduling docs](https://docs.dagster.io/concepts/partitions-schedules-sensors/schedules) for details.
+
+---
