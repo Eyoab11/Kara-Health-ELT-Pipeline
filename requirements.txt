@@ -24,3 +24,6 @@ dagster-postgres
 
 # Environment Management
 python-dotenv
+
+
+ultralytics

@@ -1,0 +1,26 @@
+version: 2
+
+models:
+  - name: fct_image_detections
+    description: "Fact table linking YOLOv8 image detections to Telegram messages, channels, and dates. Each row represents a detected object in an image."
+    columns:
+      - name: message_id
+        description: "Foreign key to fct_messages. Original message ID from Telegram."
+        tests:
+          - not_null
+      - name: channel_id
+        description: "Foreign key to dim_channels. Channel where the message was posted."
+      - name: date_id
+        description: "Foreign key to dim_dates. Date of the message."
+      - name: detected_object_class
+        description: "Class label of the detected object (from YOLOv8)."
+        tests:
+          - not_null
+      - name: confidence_score
+        description: "Confidence score of the detection (0-1)."
+        tests:
+          - not_null
+      - name: image_path
+        description: "Path to the image file."
+      - name: detection_timestamp
+        description: "Timestamp when the detection was performed." 
