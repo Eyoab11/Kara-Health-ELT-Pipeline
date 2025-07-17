@@ -1,0 +1,17 @@
+name: 'dbt_project'
+version: '1.0'
+config-version: 2
+
+profile: 'kara'
+
+model-paths: ["dbt_project/models"]
+
+seed-paths: ["dbt_project/data"]
+macro-paths: ["dbt_project/macros"]
+
+models:
+  dbt_project:
+    staging:
+      +schema: staging
+    marts:
+      +schema: marts 
