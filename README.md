@@ -260,6 +260,40 @@ data/
 
 ---
 
+# Task 3: Data Enrichment with Object Detection (YOLO)
+
+### What Was Done
+- **YOLOv8 object detection** was used to analyze all images scraped from Telegram channels.
+- A Python enrichment script scans all images, runs YOLOv8, and stores detected objects (class, confidence, etc.) in the `raw.image_detections` table in PostgreSQL.
+- A new dbt fact model, `fct_image_detections`, links detections to messages, channels, and dates in the star schema.
+- Tests and documentation are included for all new columns.
+
+### How to Run Image Enrichment and Update the Warehouse
+1. **Install dependencies:**
+   ```sh
+   pip install -r requirements.txt
+   ```
+2. **Run the enrichment script:**
+   ```sh
+   python src/enrichment/enrich.py
+   ```
+3. **Update the warehouse with new detections:**
+   ```sh
+   dotenv run -- dbt run
+   dotenv run -- dbt test
+   ```
+4. **(Optional) Regenerate and view docs:**
+   ```sh
+   dotenv run -- dbt docs generate
+   dotenv run -- dbt docs serve --host 127.0.0.1
+   ```
+
+### Notes
+- Each detection is linked to its message, channel, and date for rich analytics.
+- The pipeline is now ready for advanced analysis and API development.
+
+---
+
 For more details, see the code and dbt documentation in the project.
 =======
 # Shipping a Data Product: From Raw Telegram Data to an Analytical API
